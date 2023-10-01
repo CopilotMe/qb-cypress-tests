@@ -1,0 +1,17 @@
+{
+  "name": "qb-ui-tests",
+  "version": "1.0.0",
+  "description": "Cypress basic tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [
+    "Webdriver.io"
+  ],
+  "author": "sg.ace.11@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.0"
+  }
+}
